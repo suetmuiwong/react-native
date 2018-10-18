@@ -73,7 +73,7 @@
     npm install -g react-native-cli
     初始化项目：react-native init  项目名称
 
-四、Android 模拟器  夜神模拟器
+四、Android 模拟器  夜神模拟器  Genymotion（建议选择个人免费版，强烈推荐使用！）
 
     1.连接：命令行cmd运行 adb connect 127.0.0.1:62001 
 
